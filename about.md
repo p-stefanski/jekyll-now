@@ -7,6 +7,7 @@ published: true
 ### Pro
 
 Experience: Developer (mainly Java), Designer, Scrum Master, Release Engineer, Administrator
+
 Aspirations: Leader, Architect, Technical Manager
 
 I am a Java developer with 5 years of experience. During that time I designed and developed mainly in Java and participated in architecture decisions for IT systems in mid and big-size education, job board and insurance companies. Always eager to acquire new skills I worked in backend, frontend as well as integration. 
