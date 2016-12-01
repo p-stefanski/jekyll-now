@@ -18,11 +18,10 @@ In future I would like to serve with my skills in a bigger scale becoming a lead
 ### Interests
 
 There are a lot of them and they are still changing... among them:
-
-- soft skills, especially communication and change promotion
-- leadership in small environments (family ;)) and bigger ones (company)
-- time organization
-- modern art and photography 
+* soft skills, especially communication and change promotion
+* leadership in small environments (family ;)) and bigger ones (company)
+* time organization
+* modern art and photography 
 
 ### Contact me
 
