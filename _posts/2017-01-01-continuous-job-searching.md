@@ -2,7 +2,6 @@
 published: true
 ---
 Working in IT? No matter how happy you are with your current job - you should actively look for a new one. But you do not want to change a job? Well, it is all about the chase.
-
 It is not the most important to find a new job - you get multiple benefits just while looking for it on every single step in every recrutation process. Besides, postponing job seeking to the moment we cannot stand working in the current job or have to leave often leads us to quick, not very reasonable decisions. 
 
 ## Phase 1: Scanning through job offers
