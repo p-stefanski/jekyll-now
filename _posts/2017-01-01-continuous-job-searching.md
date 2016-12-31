@@ -1,11 +1,12 @@
 ---
 published: true
 ---
+
+![]({{site.baseurl}}/images/2016-12-31/Fotolia_129760515_XS.jpg)
 Working in IT? No matter how happy you are with your current job - you should actively look for a new one. But you do not want to change a job? Well, it is all about the chase. 
 It is not the most important to find a new job - you get multiple benefits just while looking for it on every single step in every recrutation process. Besides, postponing job seeking to the moment we cannot stand working in the current job or have to leave often leads us to quick, not very reasonable decisions. 
 
 ## Phase 1: Scanning through job offers
-![]({{site.baseurl}}/images/2016-12-31/Fotolia_129760515_XS.jpg)
 
 Do you think looking through the job offers is boring and treat it as a waste of time? Then probably you do it the wrong way. What I propose is to do it in two steps with separate goals in mind.
 
